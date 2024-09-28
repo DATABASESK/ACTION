@@ -1,9 +1,13 @@
 {
     "movies": [
       {
+        "uri": "https://via.placeholder.com/150/ffff00/000000?text=mazhai-pidikkatha-manithan",
+        "link": "https://goplayer3.com/embed-bq9ejp2kaokg.html"
+      },
+      {
         "uri": "https://via.placeholder.com/150/ffff00/000000?text=BOAT",
         "link": "https://goplayer3.com/embed-pf9xbl6z6dla.html"
-      },
+      },  
       {
         "uri": "https://via.placeholder.com/150/ffff00/000000?text=nanban-oruvan-vandha-piragu",
         "link": "https://goplayer3.com/embed-12f695rw25mi.html"
